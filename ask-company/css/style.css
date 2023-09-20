@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .imagem-produto {
+  height: 25em;
+} */
+
+/* .container-produto {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .container-teste:hover{
+  scale: 1.1;
+  transition: 1s;
+} */
